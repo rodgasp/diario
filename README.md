@@ -2,9 +2,9 @@
 Realiza coleta de dados baseado em publicação PDF.
 
 ## Arquivos
-diario.pdf > Fonte de dados
-diario.py > Script de renderização, processamento e exportação de dados
-output.json > Saída de dados
+- diario.pdf > Fonte de dados
+- diario.py > Script de renderização, processamento e exportação de dados
+- output.json > Saída de dados
 
 ## Renderização
 Utiliza-se do pacote pymupdf - fitz para renderização do conteúdo e folhas de estilo aplicados ao documento.
